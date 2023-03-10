@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Dairy</string>
+    <string name="SonKaj">সাংগঠনিক কাজ</string>
+    <string name="SongoOdayon">সাংগঠনিক অধ্যয়ন</string>
+    <string name="AcademicOdaiyon">পাঠ্যপুস্তক অধ্যয়ন</string>
+    <string name="sleep">ঘুম ও বিশ্রাম</string>
+    <string name="dawatiKaj">দাওয়াতি কাজ</string>
+    <string name="OnanaSonKaj">অন্যান্য সাংগঠনিক কাজ</string>
+    <string name="personalKaj">ব্যক্তিগত কাজ</string>
+</resources>

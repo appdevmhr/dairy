@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "145304890864",
+    "project_id": "dairy-f2939",
+    "storage_bucket": "dairy-f2939.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145304890864:android:cf78f4beacabcbcab54135",
+        "android_client_info": {
+          "package_name": "com.honeyappdeveloper.dairy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "145304890864-f9v9vv6sgdbj2u26mofr91pejhp0nab6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAVwlMppv9YskLQvpU4e19LYAQmCJCGgM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "145304890864-f9v9vv6sgdbj2u26mofr91pejhp0nab6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
